@@ -30,6 +30,8 @@ CTestTestFile.cmake
 *.vcxproj
 *.vcxproj.filters
 *.sln
+out
+.vs
 
 # Apple Finder metadata
 *.DS_Store

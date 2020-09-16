@@ -433,7 +433,7 @@ ENDIF(BUILD_BULLET2_DEMOS)
 
 
 
-OPTION(BUILD_EXTRAS "Set when you want to build the extras" ON)
+OPTION(BUILD_EXTRAS "Set when you want to build the extras" OFF)
 IF(BUILD_EXTRAS)
   SUBDIRS(Extras)
 ENDIF(BUILD_EXTRAS)
